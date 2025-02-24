@@ -38,5 +38,5 @@ ShroomSprint is a 2D jump-and-run platformer where you control a mushroom.
 
 ### Third Level  
 <p align="center">
-  <img src="https://media.giphy.com/media/U2nCWGMM9z4Yjm8QV8/giphy.gif" alt="Third Level">
+  <img src="https://media.giphy.com/media/kjyzHCg6kmfQZDOH4N/giphy.gif" alt="Third Level">
 </p>
