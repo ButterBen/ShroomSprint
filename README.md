@@ -1,6 +1,6 @@
 # ShroomSprint  
 
-This is a game I fully developed by myself using Unity.  
+This is a game I fully developed in one month by myself using Unity.  
 Only the SFX and music were AI-generated or sourced from various free sound effect websites like [Freesound.org](https://freesound.org/).  
 All assets are created by myself as well.  
 
